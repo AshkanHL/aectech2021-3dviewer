@@ -1,0 +1,19 @@
+{
+  "name": "aectech2021-3dviewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tt-acm/aectech2021-3dviewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tt-acm/aectech2021-3dviewer/issues"
+  },
+  "homepage": "https://github.com/tt-acm/aectech2021-3dviewer#readme"
+}
